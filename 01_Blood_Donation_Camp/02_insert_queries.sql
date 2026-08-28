@@ -1,7 +1,6 @@
 -- =========================================================
---                 BLOOD DONATION CAMP DATABASE
+--                     Blood Donation Camp DB
 --                         INSERT QUERIES
---                          Assessment 2
 -- =========================================================
 
 USE BloodDonationCamp;
