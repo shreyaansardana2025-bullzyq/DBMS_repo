@@ -1,4 +1,4 @@
-# Database Systems (DBS)
+# Database Systems - Queries
 
 This repository contains my Database Systems coursework and practical SQL work completed as part of the BACSE202 Database Systems course.
 
