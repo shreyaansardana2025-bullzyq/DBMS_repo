@@ -1,8 +1,6 @@
 -- ============================================================
--- DATABASE SYSTEMS - SUPERSTORE SALES
--- Assessment 5: Arithmetic Operators
--- Name: Shreyaan Sardana
--- Reg No: 25BBS0069
+--               DATABASE SYSTEMS - SUPERSTORE SALES
+--               Assessment 5: Arithmetic Operators
 -- ============================================================
 
 -- Q1. Calculate the unit price for each order by dividing
