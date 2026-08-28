@@ -1,8 +1,6 @@
 -- =========================================================
---             NETFLIX MOVIES AND TV SHOWS DATABASE
---                     Assessment 4
---                 Setup and Basic Queries
---                     Questions 1–10
+--             Netflix Movies and TV Shows DB
+--                    Basic Queries
 -- =========================================================
 
 -- Q1. Display all available databases.
