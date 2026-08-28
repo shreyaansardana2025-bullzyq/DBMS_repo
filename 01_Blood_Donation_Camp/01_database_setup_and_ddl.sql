@@ -1,7 +1,6 @@
 -- =========================================================
---                 BLOOD DONATION CAMP DATABASE
+--                 Blood Donation Camp DB
 --              Database Setup and DDL Operations
---                         Assessment 2
 -- =========================================================
 
 -- Q1. Create the database
