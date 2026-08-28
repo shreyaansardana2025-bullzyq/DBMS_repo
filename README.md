@@ -2,7 +2,7 @@
 
 This repository contains my Database Systems coursework and practical SQL work completed as part of the BACSE202 Database Systems course.
 
-## Projects
+## Project Description
 
 ### 01. Blood Donation Camp Database
 - Database and table creation
