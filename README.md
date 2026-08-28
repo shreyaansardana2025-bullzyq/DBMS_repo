@@ -58,5 +58,5 @@ DBS/
 The SQL files are organized from submitted coursework for readability and GitHub presentation. Dataset files are not included unless required; the queries assume that the corresponding tables/data have already been loaded into MySQL.
 
 ## Contact
-- Project maintained by: Shreyaan Sardana
+- Project maintained by:  Shreyaan Sardana
 
