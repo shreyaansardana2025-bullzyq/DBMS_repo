@@ -1,8 +1,8 @@
 -- =========================================================
--- NETFLIX MOVIES AND TV SHOWS DATABASE
--- Assessment 4
--- DCL QUERIES
--- Questions 22–32
+--         NETFLIX MOVIES AND TV SHOWS DATABASE
+--                       Assessment 4
+--                       DCL QUERIES
+--                     Questions 22–32
 -- =========================================================
 
 -- Q22. Create a MySQL user for Netflix analysis.
