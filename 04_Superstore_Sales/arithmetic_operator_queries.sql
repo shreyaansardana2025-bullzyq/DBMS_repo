@@ -1,6 +1,6 @@
 -- ============================================================
---               DATABASE SYSTEMS - SUPERSTORE SALES
---               Assessment 5: Arithmetic Operators
+--                    Superstore Sales DB
+--                    Arithmetic Operators
 -- ============================================================
 
 -- Q1. Calculate the unit price for each order by dividing
