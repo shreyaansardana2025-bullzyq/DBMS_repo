@@ -1,6 +1,6 @@
 -- =========================================================
---                     Blood Donation Camp DB
---                         INSERT QUERIES
+--                   Blood Donation Camp DB
+--                       Insert Queries
 -- =========================================================
 
 USE BloodDonationCamp;
