@@ -1,7 +1,6 @@
 -- ============================================================
---                     DATABASE SYSTEMS
---             Sales Order Database – TCL Queries
---                      Assessment 5 Lab
+--                       Sales Order DB
+--                         TCL Queries
 -- ============================================================
 
 -- Query 1
