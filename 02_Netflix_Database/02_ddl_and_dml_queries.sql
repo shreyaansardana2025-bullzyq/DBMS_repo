@@ -1,8 +1,6 @@
 -- =========================================================
---             NETFLIX MOVIES AND TV SHOWS DATABASE
---                         Assessment 4
---                     DDL AND DML QUERIES
---                       Questions 11–21
+--             Netflix Movies and TV Shows DB
+--                     DDL, DML Queries
 -- =========================================================
 
 -- Q11. Add a language column to the table.
