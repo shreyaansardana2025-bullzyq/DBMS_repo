@@ -1,9 +1,7 @@
 -- ============================================================
--- DATABASE SYSTEMS
--- Sales Order Database – TCL Queries
--- Assessment 5 Lab
--- Name: Shreyaan Sardana
--- Reg No: 25BBS0069
+--                     DATABASE SYSTEMS
+--             Sales Order Database – TCL Queries
+--                      Assessment 5 Lab
 -- ============================================================
 
 -- Query 1
